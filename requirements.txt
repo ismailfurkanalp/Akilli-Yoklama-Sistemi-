@@ -1,0 +1,6 @@
+numpy
+opencv-python
+Pillow
+flask
+# face_recognition_models pkg_resources kullanir; yeni setuptools surumlerinde kaldirildi
+setuptools<81

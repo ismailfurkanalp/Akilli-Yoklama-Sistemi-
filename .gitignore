@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/*.db
+kurulum_log.txt
+ortam_raporu.txt
+.vscode/
